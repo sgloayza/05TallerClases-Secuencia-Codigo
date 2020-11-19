@@ -11,5 +11,8 @@ package pkg05tallerclases.secuencia.codigo;
  * @author Intel
  */
 public class Permanente {
+    private int numSeguroSocial;
+    private float salario;
+    private String referencias;
     
 }
