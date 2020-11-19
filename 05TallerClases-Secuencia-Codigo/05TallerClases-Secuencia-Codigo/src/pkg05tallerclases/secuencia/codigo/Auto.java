@@ -9,6 +9,6 @@ package pkg05tallerclases.secuencia.codigo;
  *
  * @author Intel
  */
-public class Auto {
+public class Auto extends Vehiculo{
     
 }
