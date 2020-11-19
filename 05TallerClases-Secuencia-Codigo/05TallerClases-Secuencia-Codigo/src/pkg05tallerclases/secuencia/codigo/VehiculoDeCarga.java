@@ -10,6 +10,6 @@ package pkg05tallerclases.secuencia.codigo;
  *
  * @author Intel
  */
-public class VehiculoDeCarga {
-    private int pesoCargado;
+public class VehiculoDeCarga extends Vehiculo{
+    private String pesoCargado;
 }
