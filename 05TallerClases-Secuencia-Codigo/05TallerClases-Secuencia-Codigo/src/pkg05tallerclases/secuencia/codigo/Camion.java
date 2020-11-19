@@ -11,5 +11,8 @@ package pkg05tallerclases.secuencia.codigo;
  * @author Intel
  */
 public class Camion {
+    private int numeroRuedas;
+    private int capacidadRemolque;
+    private String gradoLicencia;     
     
 }
