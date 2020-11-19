@@ -10,6 +10,8 @@ package pkg05tallerclases.secuencia.codigo;
  *
  * @author Intel
  */
-public class Furgoneta {
-    
+public class Furgoneta extends VehiculoDeCarga{
+   private String pesoSinCarga;
+   private String capacidadCarga;
 }
+
