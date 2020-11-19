@@ -10,7 +10,7 @@ package pkg05tallerclases.secuencia.codigo;
  *
  * @author Intel
  */
-public class Camion {
+public class Camion extends VehiculoDeCarga{
     private int numeroRuedas;
     private int capacidadRemolque;
     private String gradoLicencia;     

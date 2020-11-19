@@ -9,6 +9,6 @@ package pkg05tallerclases.secuencia.codigo;
  *
  * @author Intel
  */
-public class Conductor {
+public class Conductor extends Permanente{
     
 }

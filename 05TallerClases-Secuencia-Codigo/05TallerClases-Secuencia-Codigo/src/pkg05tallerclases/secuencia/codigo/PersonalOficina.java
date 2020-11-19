@@ -9,6 +9,6 @@ package pkg05tallerclases.secuencia.codigo;
  *
  * @author Intel
  */
-public class PersonalOficina {
+public class PersonalOficina extends Permanente{
     
 }
