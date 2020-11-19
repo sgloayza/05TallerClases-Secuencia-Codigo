@@ -10,7 +10,7 @@ package pkg05tallerclases.secuencia.codigo;
  *
  * @author Intel
  */
-public class Permanente {
+public class Permanente extends Empleado {
     private int numSeguroSocial;
     private float salario;
     private String referencias;
