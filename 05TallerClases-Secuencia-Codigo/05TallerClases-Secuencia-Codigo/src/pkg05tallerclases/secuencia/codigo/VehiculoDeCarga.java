@@ -11,5 +11,5 @@ package pkg05tallerclases.secuencia.codigo;
  * @author Intel
  */
 public class VehiculoDeCarga {
-    
+    private int pesoCargado;
 }
