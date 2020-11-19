@@ -5,10 +5,14 @@
  */
 package pkg05tallerclases.secuencia.codigo;
 
+import java.util.Date;
+
 /**
  *
  * @author Intel
  */
-public class Contratista {
-    
+public class Contratista extends Empleado{
+    private String nombreEmpresa;
+    private Date fechaInicio;
+    private int duracionContrato;
 }

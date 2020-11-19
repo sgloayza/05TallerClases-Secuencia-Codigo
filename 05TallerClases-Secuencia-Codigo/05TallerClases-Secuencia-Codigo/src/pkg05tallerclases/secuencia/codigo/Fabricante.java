@@ -10,5 +10,5 @@ package pkg05tallerclases.secuencia.codigo;
  * @author Intel
  */
 public class Fabricante {
-    
+    private String idFabricante;
 }
